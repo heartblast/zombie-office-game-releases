@@ -4,7 +4,7 @@
 <p align="center"><b>ZOMBIE OVERTIME</b> — 사무실 좀비 생존 코믹 아케이드</p>
 
 <p align="center">
-  <a href="https://github.com/heartblast/zombie-office-game-releases/releases/download/v1.1.1/ZombieOfficeGame-Windows-v1.1.1.zip"><b>💾 Windows 버전 다운로드 (v1.1.1)</b></a>
+  <a href="https://github.com/heartblast/zombie-office-game-releases/releases/download/v1.2.0/ZombieOfficeGame-Windows-v1.2.0.zip"><b>💾 Windows 버전 다운로드 (v1.2.0)</b></a>
 </p>
 
 > 금요일 오후 5시 59분. 퇴근까지 딱 1분 남았는데… 사무실에 좀비가 쏟아졌다.
@@ -32,7 +32,7 @@
 
 | 최신 버전 | 배포 일자 | 파일 |
 |---|---|---|
-| **v1.1.1** | 2026-11-01 | [`ZombieOfficeGame-Windows-v1.1.1.zip`](https://github.com/heartblast/zombie-office-game-releases/releases/download/v1.1.1/ZombieOfficeGame-Windows-v1.1.1.zip) (59.1 MB) |
+| **v1.2.0** | 2026-11-13 | [`ZombieOfficeGame-Windows-v1.2.0.zip`](https://github.com/heartblast/zombie-office-game-releases/releases/download/v1.2.0/ZombieOfficeGame-Windows-v1.2.0.zip) (59.8 MB) |
 
 - 위 파일 이름을 누르면 바로 다운로드됩니다. GitHub 로그인은 필요 없습니다.
 - 지난 버전은 [릴리스 목록](https://github.com/heartblast/zombie-office-game-releases/releases)에, 항상 최신 버전은 [Latest 릴리스](https://github.com/heartblast/zombie-office-game-releases/releases/latest)에 있습니다.
@@ -66,13 +66,13 @@
 <details>
 <summary>🔐 파일이 온전한지 확인하기 (선택)</summary>
 
-`ZombieOfficeGame-Windows-v1.1.1.zip` 의 SHA-256:
+`ZombieOfficeGame-Windows-v1.2.0.zip` 의 SHA-256:
 
 ```
-3f3e04b24160c835c8dc5179a3d81359cfb5cb774fa8afdb98c198f94acde611
+11c7c41679841335872c53d1c063d8f5d68dee31ace8d50194edb2327d4fe313
 ```
 
-PowerShell 에서 `Get-FileHash .\ZombieOfficeGame-Windows-v1.1.1.zip -Algorithm SHA256` 결과와 같으면 정상입니다. 릴리스마다 `SHA256SUMS.txt` 도 함께 올라갑니다.
+PowerShell 에서 `Get-FileHash .\ZombieOfficeGame-Windows-v1.2.0.zip -Algorithm SHA256` 결과와 같으면 정상입니다. 릴리스마다 `SHA256SUMS.txt` 도 함께 올라갑니다.
 </details>
 
 ---
